@@ -1,0 +1,14 @@
+target/
+bin/
+build/
+out/
+*.class
+.metadata/
+.settings/
+.project
+.classpath
+.idea/
+.vscode/
+node_modules/
+dist/
+*.log
